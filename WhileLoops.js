@@ -1,8 +1,8 @@
 //while loops repeat code WHILE some condition is true
 
-/*let username = ""
+/*let username = "";
 
-while(username === "" || username === null){
+while(username === ""; || username === null){
     username = window.prompt("Enter your name");
 }
 
@@ -10,8 +10,8 @@ console.log(`Hello ${username}`);
 */
 
 let loggedIn = false;
-let username;
-let password;
+let username
+let password 
 
     while(!loggedIn){
 
